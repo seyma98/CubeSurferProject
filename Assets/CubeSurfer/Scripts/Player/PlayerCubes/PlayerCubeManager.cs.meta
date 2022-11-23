@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15ab324c252a63e4abd35c72ba494079
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - getBox: {fileID: 8300000, guid: 6bb5e7849a4440d41b98d32856b70e36, type: 3}
+  - dropBox: {fileID: 8300000, guid: 5e62ef33f87452f47a7f80842b26a1ad, type: 3}
+  - getCoin: {instanceID: 0}
+  - jump: {fileID: 8300000, guid: dacd0d7e206dc6f48b824924bdcd2d8e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
